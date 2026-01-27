@@ -12,12 +12,12 @@ hfi download Qwen/Qwen2.5-VL-7B-Instruct --repo-type model
 ```
 ### 2. Cold Start
 ```bash
-bash zmy_script\cold_start.sh
+bash zmy_script/cold_start.sh
 ```
 
 ### 2. Run RL Training
 ```bash
-bash zmy_script\train.sh
+bash zmy_script/train.sh
 ```
 
 ---
@@ -25,7 +25,7 @@ bash zmy_script\train.sh
 ## Eval
 ### 1. Model Deployment
 ```bash
-bash eval\vllm_server.sh
+bash eval/vllm_server.sh
 ```
 
 ### 2. Run Model Inference
