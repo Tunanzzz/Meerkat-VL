@@ -43,7 +43,7 @@ export OPENAI_BASE_URL="https://openrouter.ai/api/v1"
 Run the evaluation script:
 
 ```bash
-bash SaFeR-VLM/eval/cal_result_by_gpt.sh
+bash eval/cal_result_by_gpt.sh
 ```
 
 ### ⚠️ Note  
