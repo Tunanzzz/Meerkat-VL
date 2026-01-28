@@ -15,7 +15,7 @@ hfi download Qwen/Qwen2.5-VL-7B-Instruct --repo-type model
 bash zmy_script/cold_start.sh
 ```
 
-### 2. Run RL Training
+### 3. Run RL Training
 ```bash
 bash zmy_script/train.sh
 ```
