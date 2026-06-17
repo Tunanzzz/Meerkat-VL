@@ -146,19 +146,6 @@ Meerkat-VL/
 └── README.md
 ```
 
-<!-- ## 📝 Citation
-
-If you find Meerkat-VL or the Meerkat-Safe dataset useful, please cite our paper:
-
-```bibtex
-@inproceedings{zhou2026meerkatvl,
-  title     = {Meerkat-VL: Implicit Risk Safety Alignment in Multimodal LLMs via Perceptual Reasoning and Self-Verification},
-  author    = {Zhou, Peicheng and Liu, Chuanbin and Fang, Shancheng and Pu, Bowei and Sun, Yiwei and Hu, Zhangchi and Xie, Hongtao},
-  booktitle = {Proceedings of the 43rd International Conference on Machine Learning (ICML)},
-  year      = {2026}
-}
-``` -->
-
 ## 🙏 Acknowledgement
 
 We thank the authors of [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [ms-swift](https://github.com/modelscope/ms-swift), [verl](https://github.com/volcengine/verl), and the SIUO / MSSBench / Beavertails-V / SPA-VL / MM-SafetyBench teams for their open-source contributions, on which this project is built.
